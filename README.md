@@ -29,7 +29,7 @@ VSCode users in order to prevent bugs with kernel not found, your folder structu
   |... rest of the stuff
 ```
 
-If you create .venv in a parent folder to MARL-StagHunt or inside Gymnasium-Stag-Hunt it may not be recognised and available in the kernel when you try to execute the notebook!!
+If you create .venv in a parent folder to MARL-StagHunt or inside Gymnasium-Stag-Hunt, it may not be recognised and available in the kernel list when you try to execute the notebook!!
 
 Instructions below show correct installation process:
 
