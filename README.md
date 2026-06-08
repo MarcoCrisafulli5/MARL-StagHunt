@@ -3,7 +3,7 @@
 The StagHunt environment available [here](https://github.com/giorgiofranceschelli/Gymnasium-Stag-Hunt/tree/master) contains 3 multi-agent grid-based stochastic games, the aim of this project is to explore prosocial behavior in multi-agent
 reinforcement learning. 
 
-Indipendent Deeep Q-Learning implemented with a shared experience buffer.
+Indipendent Deep Q-Learning implemented with a shared experience buffer.
 Config is centralized into Configuration section of the notebook.
 
 ## Requirements
