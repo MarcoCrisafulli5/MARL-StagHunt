@@ -7,7 +7,8 @@ reinforcement learning.
 Indipendent Deeep Q-Learning implemented with a shared experience buffer.
 Config is centralized into Configuration section of the notebook.
 
-## REQUIRES PYTHON 3.11
+## Requirements
+- Python **3.11 exactly** (higher versions may cause compatibility issues)
 
 ## Features 
 
