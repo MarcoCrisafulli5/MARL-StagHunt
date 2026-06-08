@@ -1,0 +1,8 @@
+./Gymnasium-Stag-Hunt
+./runs
+./runs/staghunt/*
+./content
+.venv
+content/
+runs/
+Gymnasium-Stag-Hunt/
